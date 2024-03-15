@@ -41,3 +41,5 @@ test/*.js
 
 filtered_words*.json
 words*.json
+
+build
