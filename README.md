@@ -1,4 +1,4 @@
-# API Documentation
+# Country Code Words API
 
 ## Overview
 This API provides a single endpoint to check if a given word can be constructed using country codes. If the word can be constructed, it returns the list of country codes along with a concatenated string for easy copy-pasting.
